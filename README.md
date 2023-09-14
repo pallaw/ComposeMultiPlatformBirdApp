@@ -1,5 +1,13 @@
 [![official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) Bird list app
+
+https://github.com/pallaw/ComposeMultiPlatformBirdApp/assets/12657374/0232f10c-9718-4fc8-a05a-b2f32b01691e
+
+![iphone recording](https://github.com/pallaw/ComposeMultiPlatformBirdApp/assets/12657374/7fc0e8fd-1775-414c-9115-08b4fab1d4cf)
+
+
+# Template readme
 # [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) mobile application
 
 > **Note**
